@@ -1,0 +1,14 @@
+
+.app{
+  height:100vh;
+ 
+  background-image: url('../form.jpg');
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+  padding : 1em;
+  
+ }
+ .form-body{
+     color: #20222b;
+ }
